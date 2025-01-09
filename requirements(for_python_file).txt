@@ -1,0 +1,12 @@
+beautifulsoup4
+cryptography
+fpdf
+Pillow
+psutil
+PyPDF2
+requests
+schedule
+yt-dlp
+qrcode
+pygame
+pyzipper
